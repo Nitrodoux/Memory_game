@@ -1,0 +1,1 @@
+A simple memory game inspired by Gwent- Witcher card game. In every game cards are shuffling by using Fisher-Yates algorithm
